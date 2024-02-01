@@ -1,0 +1,8 @@
+git and github
+
+1. local computer e code save korbo = local stage
+
+
+
+
+2. local compute er code gulo github e push korbo = global stage
